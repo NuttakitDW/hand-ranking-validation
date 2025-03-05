@@ -1,0 +1,15 @@
+{
+  "name": "r9-hand-ranking-validation",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "poker-hand-evaluator": "^1.0.1"
+  }
+}
