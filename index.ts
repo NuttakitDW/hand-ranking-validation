@@ -85,7 +85,6 @@ for (let i = 0; i < hands.data.length; i++) {
             console.log("Rank: ", player1Hand.getRank());
             console.log("Player 2: ", player2);
             console.log("Rank: ", player2Hand.getRank());
-            console.log(handData.actions);
             console.log("---------------------------------------------------");
         }
     } else {
